@@ -1,0 +1,4 @@
+conveyor.egg-info
+*.pyc
+*~
+_build
