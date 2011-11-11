@@ -5,14 +5,16 @@ Alignment with gsnap
 Set up indices
 ^^^^^^^^^^^^^^
 
-.. code-block::
+.. highlight:: bash
+
+::
 
    gmap_build -d <genome> [-k <kmer size>] <fasta_files...>
 
 
 Tasks
 -----
-.. automodule:: conveyer.tasks.gsnap
+.. automodule:: conveyor.tasks.gsnap
    :members:
 
 
