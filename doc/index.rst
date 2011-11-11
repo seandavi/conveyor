@@ -12,6 +12,7 @@ Contents:
    :maxdepth: 2
 
    rna
+   api/tasks
 
 Indices and tables
 ==================
